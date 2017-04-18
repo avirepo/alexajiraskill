@@ -1,0 +1,5 @@
+{
+  "auth":"Basic bmFrdWw6aHJoa0AxMjM0",
+  "maxResults": "5",
+  "endpoint": "https://quovantis.atlassian.net/rest/api/latest/"
+}
